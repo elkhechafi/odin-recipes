@@ -1,2 +1,3 @@
-# odin-recipes-
-first odin project
+# odin-recipes
+
+first odin project in Html
